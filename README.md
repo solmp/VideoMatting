@@ -2,11 +2,9 @@
 
 ## [Python 推断](./RVM_infer/) ✔
 
-## Python 训练 👀
+## [Python 训练模型](./train_demo/) ✔
 
-## Python 训练 👀
-
-## [C++ 推断](https://gitee.com/solen0/video-matting/tree/master/RVM_lite.ai.toolkit_Window_1.0) ✔
+## [C++ 推断](./RVM_lite.ai.toolkit_Window_1.0/) ✔
 
 ## C++ 编译库 👀
 
