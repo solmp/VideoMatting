@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_PropertySheetDisplayName>openVINO2021.4_demo</_PropertySheetDisplayName>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Intel\openvino\opencv\include\opencv2;C:\Program Files (x86)\Intel\openvino\opencv\include;C:\Program Files (x86)\Intel\openvino\deployment_tools\inference_engine\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>C:\Program Files (x86)\Intel\openvino\opencv\lib;C:\Program Files (x86)\Intel\openvino\deployment_tools\inference_engine\lib\intel64\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opencv_calib3d453.lib;opencv_core453.lib;opencv_dnn453.lib;opencv_features2d453.lib;opencv_flann453.lib;opencv_gapi453.lib;opencv_highgui453.lib;opencv_imgcodecs453.lib;opencv_imgproc453.lib;opencv_ml453.lib;opencv_objdetect453.lib;opencv_photo453.lib;opencv_stitching453.lib;opencv_video453.lib;opencv_videoio453.lib;inference_engine.lib;inference_engine_c_api.lib;inference_engine_transformations.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
