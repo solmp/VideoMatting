@@ -1,5 +1,3 @@
-# 仓库结构
-
 - 环境
   - Windows 10
   - Python
