@@ -1,6 +1,6 @@
 ## 环境
 
-- Windows 10
+- Windows 10 - PyCharm_2021.1 - CLion_2021.2
 - Python
   - Python_3.8.12
   - pytorch_gpu_1.10.2
