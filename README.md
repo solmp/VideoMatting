@@ -1,14 +1,15 @@
-- 环境
-  - Windows 10
-  - Python
-    - Python_3.8.12
-    - pytorch_gpu_1.10.2
-  - C++
-    - openvino_2021.4.752
-    - cmake_3.21.1
-    - [alibaba/MNN](https://github.com/alibaba/MNN) 自编译 1.2.1
-    - [microsoft/onnxruntime](https://github.com/Microsoft/onnxruntime) 官方编译 1.10.0
-    - [Tencent/TNN](https://github.com/Tencent/TNN) 官方编译 0.3.0
+## 环境
+
+- Windows 10
+- Python
+  - Python_3.8.12
+  - pytorch_gpu_1.10.2
+- C++
+  - openvino_2021.4.752
+  - cmake_3.21.1
+  - [alibaba/MNN](https://github.com/alibaba/MNN) 自编译 1.2.1
+  - [microsoft/onnxruntime](https://github.com/Microsoft/onnxruntime) 官方编译 1.10.0
+  - [Tencent/TNN](https://github.com/Tencent/TNN) 官方编译 0.3.0
 
 ## [Python 推断](./RVM_infer/) ✔
 
