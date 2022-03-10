@@ -23,7 +23,7 @@
 
 - 基于 [DefTruth/RobustVideoMatting.lite.ai.toolkit](https://github.com/DefTruth/RobustVideoMatting.lite.ai.toolkit)
 
-## [C++ 编译库](./编译库文件_lite_Window/) ✔
+## [C++ 编译库](./compile_lite_Window/) ✔
 
 - 基于 [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)
 
